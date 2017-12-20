@@ -1,2 +1,8 @@
 # Battle_Tanks
-Tank fight game
+
+## Intro
+This is a tank based head to head fight game.
+
+## Commits
+* Initial
+* This
